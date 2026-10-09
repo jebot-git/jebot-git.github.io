@@ -12,3 +12,5 @@ Serve locally with `python3 -m http.server 8080` from this directory. Root-relat
 UBS fishing/store media came from the game's stores branch. Captures use desktop game-engine rendering; headset visuals may differ. Font provenance and the original author licence are in `media/fonts/`.
 
 FPSloppa media provenance and clip details are in `media/fpsloppa/README.md`. Videos load only on request and use native controls; there is no autoplay or tracking. Download links point to public GitHub releases.
+
+The browsable manual at `fpsloppa/manual/` is the HTML/CSS/JS, illustrations and optional PDF from the published 0.22v Manual archive. Keep its edition information when updating it; the site adds a return link and canonical URL.
